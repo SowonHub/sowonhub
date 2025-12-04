@@ -1,11 +1,12 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=20&duration=2200&pause=800&color=04969F&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Sowon+Kim+%F0%9F%91%8B;Textile+Design+%E2%86%92+Frontend+Developer;Learning+React%2C+TypeScript+%26+UI%2FUX"
-      alt="Sowon Kim - Frontend Developer in progress" 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=20&duration=2200&pause=800&color=FF7F50&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Sowon+Kim+%F0%9F%91%8B;Frontend+Developer+(React+%26+TS)+%F0%9F%92%BB;Yes%2C+I+can+center+a+%3Cdiv%3E+%F0%9F%98%89"
+      alt="Sowon Kim - Frontend Developer" 
     />
   </a>
 </h1>
+
 
 <!--
 **sowonhub/sowonhub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
