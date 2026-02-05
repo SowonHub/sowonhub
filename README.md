@@ -12,7 +12,7 @@
 
   <br>
 
-  <a href="./Resume.pdf" target="_blank">
+  <a href="./RESUME.pdf" target="_blank">
     <img src="https://img.shields.io/badge/📄_Resume-Click_Here!-2F80ED?style=for-the-badge&logo=notion&logoColor=white">
   </a>
   &nbsp;
