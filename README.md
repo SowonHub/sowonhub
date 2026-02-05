@@ -5,21 +5,6 @@
   />
 </div> -->
 
-
-<!--
-**sowonhub/sowonhub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <div align="center">
   <img src="./fundraising-heart.svg" width="100" alt="Sowon's Heart">
   
@@ -52,27 +37,36 @@ Here are some ideas to get you started:
 ## 🚀 Projects
 
 ### 🎮 Play Type (Team Project)
-**게임 추천 및 커뮤니티 서비스** [![Live Demo](https://img.shields.io/badge/Live_Demo-🚀-00C853?style=flat-square&logo=google-chrome&logoColor=white)](https://oz-union-fe-14-team1.vercel.app/) 👈 *Click!*
+**게임 추천 및 커뮤니티 서비스**
+<br>
+[![Live Demo](https://img.shields.io/badge/Live_Demo-🚀-00C853?style=flat-square&logo=google-chrome&logoColor=white)](https://oz-union-fe-14-team1.vercel.app/) [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/oz-union-14-team1/oz-union-fe-14-team1)
 
 - **Role:** Frontend Developer (Team)
+- **Tech Stack:** React, TypeScript, Styled-components, Axios
 - **Contribution:**
   - 공통 레이아웃인 **Header & Navigation Bar** 구현으로 사용자 접근성 확보
   - **My Page** UI/UX 개발 및 개인화 정보 관리 기능 구현
   - 팀원들과 협업하여 통일성 있는 디자인 시스템 구축
 
 ### 🏫 OZ Coding School LMS (Team Project)
-**학습 관리 시스템(LMS) 구축** [![Live Demo](https://img.shields.io/badge/Live_Demo-🚀-00C853?style=flat-square&logo=google-chrome&logoColor=white)](https://community.ozcodingschool.site/) 👈 *Click!*
+**학습 관리 시스템(LMS) 구축**
+<br>
+[![Live Demo](https://img.shields.io/badge/Live_Demo-🚀-00C853?style=flat-square&logo=google-chrome&logoColor=white)](https://community.ozcodingschool.site/) [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/OZ-Coding-School/oz_externship_fe_05_team3)
 
 - **Role:** Frontend Developer (Team)
+- **Tech Stack:** React, Tailwind CSS
 - **Contribution:**
   - **커뮤니티 목록 페이지** 전담 개발
   - 사용자 편의를 위한 **검색 필터, 카테고리 버튼, 정렬(Sorting)** 기능 구현
   - 대량의 데이터를 효율적으로 보여주기 위한 **페이지네이션(Pagination)** 로직 처리
 
 ### 🍿 Popcorn Play (Solo Project)
-**TMDB API 기반 영화 정보 제공 서비스** [![Live Demo](https://img.shields.io/badge/Live_Demo-🚀-00C853?style=flat-square&logo=google-chrome&logoColor=white)](https://popcorn-play.sowonkim.com/) 👈 *Click!*
+**TMDB API 기반 영화 정보 제공 서비스**
+<br>
+[![Live Demo](https://img.shields.io/badge/Live_Demo-🚀-00C853?style=flat-square&logo=google-chrome&logoColor=white)](https://popcorn-play.sowonkim.com/) [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SowonHub/pop-corn-play)
 
 - **Role:** Solo Developer
+- **Tech Stack:** Vanilla JS, TMDB API, CSS
 - **Description:** 외부 API(TMDB)를 활용하여 영화 검색 및 상세 정보를 제공하는 웹사이트를 1인 개발로 완성했습니다.
 
 <br>
@@ -86,6 +80,6 @@ Here are some ideas to get you started:
   
   <br><br>
   
-  <a href="mailto:본인의이메일@gmail.com"><img src="https://img.shields.io/badge/Contact-Email-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/본인의아이디"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white"></a>
+  <a href="mailto:cloudmailboxx@gmail.com"><img src="https://img.shields.io/badge/Contact-Email-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/sowonhub"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white"></a>
 </div>
