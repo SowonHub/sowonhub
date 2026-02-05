@@ -30,7 +30,7 @@
 
   <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer">
     <img
-      src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind,reactquery,supabase,vercel,git,github,figma&perline=7"
+      src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind,supabase,vercel,git,github,figma&perline=7"
       height="80"
       alt="Skills"
     />
@@ -59,6 +59,24 @@
 - 💖 **Wishlist**: 관심 게임 저장/해제 및 목록 관리
 - 🗂️ **My Reviews**: 내가 작성한 리뷰 모아보기 페이지
 
+### 🖼️ Screenshots
+
+<img src="./.github/assets/home.png" alt="Play Type - Home" width="900" />
+<br />
+<!-- <sub><b>Home — 검색/필터 기반 탐색</b></sub> -->
+
+<!-- <br /><br /> -->
+
+<img src="./.github/assets/mypage.png" alt="Play Type - My Page" width="900" />
+<br />
+<!-- <sub><b>My Page — 대시보드(위시리스트/리뷰) & 활동 관리</b></sub> -->
+
+<!-- <br /><br /> -->
+
+<img src="./.github/assets/profilecut.png" alt="Play Type - Profile Upload & Crop" width="900" />
+<br />
+<!-- <sub><b>Profile — 업로드 + 크롭 UX</b></sub> -->
+
 ### 🧩 Tech Stack
 React · TypeScript · Tailwind CSS · REST API (Custom) · Vercel · Git/GitHub
 
@@ -70,7 +88,7 @@ React · TypeScript · Tailwind CSS · REST API (Custom) · Vercel · Git/GitHub
 - **해결**: **GET /user/me/image** API 추가 + React Query 캐싱/동기화 + 업로드 성공 시 `invalidateQueries(['profileImage'])`로 자동 갱신  
 - **결과**: 재로그인 유지 · 새로고침 불필요 · 멀티 디바이스 동기화 가능  
 
-👉 상세 정리: [docs/troubleshooting/profile-image.md](./docs/troubleshooting/profile-image.md)
+👉 상세 정리: https://github.com/oz-union-14-team1/oz-union-fe-14-team1/discussions/220#discussion-9428180
 
 <br />
 
@@ -78,4 +96,26 @@ React · TypeScript · Tailwind CSS · REST API (Custom) · Vercel · Git/GitHub
 
 | Project Name | Description | Links |
 | :---: | :---: | :---: |
-| **🎮 Play Type** | 게임 추천 및 커뮤니티 서비스 (Team) | [![Live](https://img.shields.io/badge/Live-🚀-00C853?style=flat-square)](https://oz-union-fe-14-team1.vercel.app/)
+| **🎮 Play Type** | 게임 추천 및 커뮤니티 서비스 (Team) | [![Live](https://img.shields.io/badge/Live-🚀-00C853?style=flat-square)](https://oz-union-fe-14-team1.vercel.app/) [![Repo](https://img.shields.io/badge/Repo-GitHub-181717?style=flat-square)](https://github.com/oz-union-14-team1/oz-union-fe-14-team1) |
+| **🏫 OZ LMS** | 코딩 스쿨 학습 관리 시스템 (Team) | [![Live](https://img.shields.io/badge/Live-🚀-00C853?style=flat-square)](https://community.ozcodingschool.site/) [![Repo](https://img.shields.io/badge/Repo-GitHub-181717?style=flat-square)](https://github.com/OZ-Coding-School/oz_externship_fe_05_team3) |
+| **🍿 Popcorn Play** | TMDB 기반 영화 정보 서비스 (Solo) | [![Live](https://img.shields.io/badge/Live-🚀-00C853?style=flat-square)](https://popcorn-play.sowonkim.com/) [![Repo](https://img.shields.io/badge/Repo-GitHub-181717?style=flat-square)](https://github.com/SowonHub/pop-corn-play) |
+
+<br />
+<br />
+
+<div align="center">
+  <p><b>Thanks for visiting my profile!</b></p>
+  <p>방문해 주셔서 감사합니다. 더 궁금한 점은 언제든 연락주세요.</p>
+
+  <img src="./fundraising-heart.svg" width="50" alt="Sowon's Heart" />
+
+  <br /><br />
+
+  <a href="mailto:cloudmailboxx@gmail.com">
+    <img src="https://img.shields.io/badge/Contact-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/sowonhub" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Profile" />
+  </a>
+</div>
