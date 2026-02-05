@@ -12,7 +12,7 @@
 
   <br>
 
-  <a href="./RESUME.pdf" target="_blank">
+  <a href="./Resume.pdf" target="_blank">
     <img src="https://img.shields.io/badge/📄_Resume-Click_Here!-2F80ED?style=for-the-badge&logo=notion&logoColor=white">
   </a>
   &nbsp;
@@ -23,28 +23,30 @@
   <br><br>
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind,styledcomponents,supabase,vercel,git,github,figma&perline=7" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind,styledcomponents,supabase,vercel,git,github,figma&perline=7" height="80" />
   </a>
   
-  <br><br>
+  <br>
 
-  <img src="https://img.shields.io/badge/Zustand-orange?style=flat-square&logo=react&logoColor=white">
-  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=react-query&logoColor=white">
-  <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white">
-  <img src="https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white">
+  <img src="https://img.shields.io/badge/-FF4154?style=flat-square&logo=react-query&logoColor=white" height="28" alt="TanStack Query">
+  <img src="https://img.shields.io/badge/-5A29E4?style=flat-square&logo=axios&logoColor=white" height="28" alt="Axios">
+  <img src="https://img.shields.io/badge/-483699?style=flat-square&logo=obsidian&logoColor=white" height="28" alt="Obsidian">
+  <img src="https://img.shields.io/badge/Zustand-orange?style=flat-square&logo=react&logoColor=white" height="28" alt="Zustand">
 </div>
 
 <br>
 <hr> 
 <br>
 
-## 🚀 Projects
+<div align="center">
+  <h2>🚀 Projects</h2>
 
-| Project Name | Description | Links |
-| :--- | :--- | :--- |
-| **🎮 Play Type** | 게임 추천 및 커뮤니티 서비스 (Team) | [![Live](https://img.shields.io/badge/Live-🚀-00C853?style=flat-square)](https://oz-union-fe-14-team1.vercel.app/) [![Repo](https://img.shields.io/badge/Repo-GitHub-181717?style=flat-square)](https://github.com/oz-union-14-team1/oz-union-fe-14-team1) |
-| **🏫 OZ LMS** | 코딩 스쿨 학습 관리 시스템 (Team) | [![Live](https://img.shields.io/badge/Live-🚀-00C853?style=flat-square)](https://community.ozcodingschool.site/) [![Repo](https://img.shields.io/badge/Repo-GitHub-181717?style=flat-square)](https://github.com/OZ-Coding-School/oz_externship_fe_05_team3) |
-| **🍿 Popcorn Play** | TMDB 기반 영화 정보 서비스 (Solo) | [![Live](https://img.shields.io/badge/Live-🚀-00C853?style=flat-square)](https://popcorn-play.sowonkim.com/) [![Repo](https://img.shields.io/badge/Repo-GitHub-181717?style=flat-square)](https://github.com/SowonHub/pop-corn-play) |
+  | Project Name | Description | Links |
+  | :---: | :---: | :---: |
+  | **🎮 Play Type** | 게임 추천 및 커뮤니티 서비스 (Team) | [![Live](https://img.shields.io/badge/Live-🚀-00C853?style=flat-square)](https://oz-union-fe-14-team1.vercel.app/) [![Repo](https://img.shields.io/badge/Repo-GitHub-181717?style=flat-square)](https://github.com/oz-union-14-team1/oz-union-fe-14-team1) |
+  | **🏫 OZ LMS** | 코딩 스쿨 학습 관리 시스템 (Team) | [![Live](https://img.shields.io/badge/Live-🚀-00C853?style=flat-square)](https://community.ozcodingschool.site/) [![Repo](https://img.shields.io/badge/Repo-GitHub-181717?style=flat-square)](https://github.com/OZ-Coding-School/oz_externship_fe_05_team3) |
+  | **🍿 Popcorn Play** | TMDB 기반 영화 정보 서비스 (Solo) | [![Live](https://img.shields.io/badge/Live-🚀-00C853?style=flat-square)](https://popcorn-play.sowonkim.com/) [![Repo](https://img.shields.io/badge/Repo-GitHub-181717?style=flat-square)](https://github.com/SowonHub/pop-corn-play) |
+</div>
 
 <br>
 <br>
