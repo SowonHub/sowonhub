@@ -23,15 +23,10 @@
   <br><br>
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind,styledcomponents,supabase,vercel,git,github,figma&perline=7" height="80" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind,supabase,reactquery,vercel,git,github,figma&perline=7" height="80" />
   </a>
   
   <br>
-
-  <img src="https://img.shields.io/badge/-FF4154?style=flat-square&logo=react-query&logoColor=white" height="28" alt="TanStack Query">
-  <img src="https://img.shields.io/badge/-5A29E4?style=flat-square&logo=axios&logoColor=white" height="28" alt="Axios">
-  <img src="https://img.shields.io/badge/-483699?style=flat-square&logo=obsidian&logoColor=white" height="28" alt="Obsidian">
-  <img src="https://img.shields.io/badge/Zustand-orange?style=flat-square&logo=react&logoColor=white" height="28" alt="Zustand">
 </div>
 
 <br>
