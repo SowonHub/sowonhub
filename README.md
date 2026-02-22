@@ -1,108 +1,78 @@
-<div align="center">
-  <img src="./fundraising-heart.svg" width="100" alt="Sowon's Heart" />
+<h1 align="center">Hi, I'm Sowon Kim 👋</h1>
 
-  <h1>Hi there, I'm Sowon Kim! 👋</h1>
-
-  <h3>🎨 Textile Design ➔ Frontend Developer 💻</h3>
-
-  <p>
-    <b>"텍스타일의 패턴을 짜듯, 견고하고 아름다운 코드를 설계합니다."</b><br />
-    사용자 경험을 최우선으로 생각하며, <b>Agile</b>한 성장과 기록을 즐기는 개발자입니다.
-  </p>
-
-  <br />
-
-  <a href="./RESUME.pdf" target="_blank" rel="noopener noreferrer">
-    <img
-      src="https://img.shields.io/badge/Resume-PDF-FF4D4D?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"
-      alt="Resume PDF"
-    />
-  </a>
-  &nbsp;
-  <a href="https://until.blog/@sowonkim" target="_blank" rel="noopener noreferrer">
-    <img
-      src="https://img.shields.io/badge/Tech%20Blog-until.blog-111827?style=for-the-badge&logo=rss&logoColor=white"
-      alt="Tech Blog"
-    />
-  </a>
-
-  <br /><br />
-
-  <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer">
-    <img
-      src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind,supabase,vercel,git,github,figma&perline=7"
-      height="80"
-      alt="Skills"
-    />
-  </a>
-
-  <br />
-</div>
-
-<br />
-<hr />
-<br />
-
-## ⭐ Featured Project — Play Type (Team)
-
-> **Game Recommendation & Community Platform**  
-> 저는 탐색(검색/필터)부터 마이페이지(프로필/대시보드/위시리스트/리뷰)까지, 사용자가 “내 정보와 활동을 관리하는 흐름”을 설계·구현했습니다.
-
-**🔗 Links**
-- Live: https://oz-union-fe-14-team1.vercel.app/
-- Repo: https://github.com/oz-union-14-team1/oz-union-fe-14-team1
-
-### ✅ What I Built
-- 🔎 **Header Search / Filter**: 검색·필터 UI 및 상태 흐름 구성 (탐색 UX 개선)
-- 🙍 **My Page Profile**: 프로필 **업로드 + 이미지 크롭** 기능 구현
-- 📊 **Dashboard**: **위시리스트 수 / 내가 쓴 리뷰 수** 활동 지표 대시보드
-- 💖 **Wishlist**: 관심 게임 저장/해제 및 목록 관리
-- 🗂️ **My Reviews**: 내가 작성한 리뷰 모아보기 페이지
-
-### 🖼️ Screenshots
-<img src="./.github/assets/home.png" alt="Play Type - Home" width="900" />
-<img src="./.github/assets/mypage.png" alt="Play Type - My Page" width="900" />
-<img src="./.github/assets/profilecut.png" alt="Play Type - Profile Upload & Crop" width="900" />
-
-### 🧩 Tech Stack
-React · TypeScript · Tailwind CSS · REST API (Custom) · Vercel · Git/GitHub
+<p align="center">
+Frontend Developer (React · TypeScript)<br/>
+Focused on scalable architecture and measurable performance improvements.
+</p>
 
 ---
 
-### 🛠️ Troubleshooting — Profile Image Persistence
-- **Issue**: 프로필 이미지 업로드 후 로그아웃/재로그인 시 이미지가 사라짐  
-- **Cause**: 조회 API 부재(`GET /user/me/image`) + `/user/me` 응답에 `profile_img_url` 미포함 → localStorage 임시저장 의존  
-- **Fix**: **GET /user/me/image** API 추가 + React Query 캐싱/동기화 + 업로드 성공 시 `invalidateQueries(['profileImage'])`로 자동 갱신  
-- **Result**: 재로그인 유지 · 새로고침 불필요 · 멀티 디바이스 동기화 가능  
+## 🚀 About Me
 
-👉 상세 정리: https://github.com/oz-union-14-team1/oz-union-fe-14-team1/discussions/220#discussion-9428180
+I’m a frontend developer specialising in React and TypeScript, building scalable and performant web applications.
 
-<br />
+Rather than just delivering features, I focus on measurable improvements in performance, server-state optimisation and clean component architecture. I design applications with long-term maintainability and rendering efficiency in mind.
 
-## 🚀 Projects
+Currently targeting mid-level frontend opportunities in Sydney.
 
-| Project | Description | Links |
-| :---: | :--- | :---: |
-| **🎮 Play Type** | 게임 추천 및 커뮤니티 서비스 (Team) | [![Live](https://img.shields.io/badge/Live-🚀-00C853?style=flat-square)](https://oz-union-fe-14-team1.vercel.app/) [![Repo](https://img.shields.io/badge/Repo-GitHub-181717?style=flat-square)](https://github.com/oz-union-14-team1/oz-union-fe-14-team1) |
-| **🏫 OZ LMS** | 코딩 스쿨 학습 관리 시스템 (Team) | [![Live](https://img.shields.io/badge/Live-🚀-00C853?style=flat-square)](https://community.ozcodingschool.site/) [![Repo](https://img.shields.io/badge/Repo-GitHub-181717?style=flat-square)](https://github.com/OZ-Coding-School/oz_externship_fe_05_team3) |
-| **🍿 Popcorn Play** | TMDB 기반 영화 정보 서비스 (Solo) | [![Live](https://img.shields.io/badge/Live-🚀-00C853?style=flat-square)](https://popcorn-play.sowonkim.com/) [![Repo](https://img.shields.io/badge/Repo-GitHub-181717?style=flat-square)](https://github.com/SowonHub/pop-corn-play) |
+---
 
-<br />
-<br />
+## 🛠 Tech Stack
 
-<div align="center">
-  <p><b>Thanks for visiting my profile!</b></p>
-  <p>방문해 주셔서 감사합니다. 더 궁금한 점은 언제든 연락주세요.</p>
+### Frontend
+- React 18/19
+- TypeScript
+- Next.js
+- TanStack Query
+- Zustand
+- Tailwind CSS
 
-  <img src="./fundraising-heart.svg" width="50" alt="Sowon's Heart" />
+### Architecture & Performance
+- REST API Integration
+- Server-State Caching
+- Query Optimisation
+- Rendering Optimisation
+- Component Reusability
 
-  <br /><br />
+### Tools
+- Git / GitHub (PR workflow)
+- Vite
+- ESLint / Prettier
+- Agile Collaboration
 
-  <a href="mailto:cloudmailboxx@gmail.com">
-    <img src="https://img.shields.io/badge/Contact-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/sowonhub" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Profile" />
-  </a>
-</div>
+---
+
+## 🎬 Featured Project
+
+### Pop Corn Play  
+React · TypeScript · TanStack Query · Supabase · Vite
+
+- Designed and deployed a production-ready movie discovery application.
+- Reduced unnecessary API requests by approximately 65–70% by implementing debounce logic and optimising query key structure (measured via Chrome DevTools Network panel).
+- Improved Lighthouse performance score from 74 to 92 by optimising image loading and reducing render-blocking resources.
+- Reduced bundle size by ~22% through dependency cleanup and modularised imports (measured via Vite build output comparison).
+- Refactored component architecture into reusable and isolated modules to improve maintainability.
+- Implemented server-state caching and controlled query invalidation using TanStack Query.
+- Built authentication and protected routes using Supabase with persistent session handling.
+
+🔗 Live: https://popcorn-play.sowonkim.com/  
+🔗 Repo: https://github.com/SowonHub/pop-corn-play
+
+---
+
+## 🎮 Team Project – PLAYTYPE
+
+React · TypeScript · Zustand
+
+- Developed user dashboard and profile management features.
+- Implemented filtering, search and pagination logic for scalable data handling.
+- Collaborated using structured Git branching strategy and PR reviews.
+- Coordinated frontend-backend API integration in Agile sprint cycles.
+
+---
+
+## 🌆 Vision
+
+I aim to contribute to product-driven teams where performance, clean architecture and user experience matter.
+
+Always building. Always refining.
