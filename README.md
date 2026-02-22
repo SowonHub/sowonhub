@@ -11,7 +11,7 @@ Focused on scalable architecture and measurable performance improvements.
 
 I’m a frontend developer specialising in React and TypeScript, building scalable and performant web applications.
 
-Rather than just delivering features, I focus on measurable improvements in performance, server-state optimisation and clean component architecture. I design applications with long-term maintainability and rendering efficiency in mind.
+Rather than simply delivering features, I focus on measurable performance improvements, server-state optimisation and clean component architecture. I design applications with long-term maintainability, rendering efficiency and product scalability in mind.
 
 Currently targeting mid-level frontend opportunities in Sydney.
 
@@ -34,8 +34,8 @@ Currently targeting mid-level frontend opportunities in Sydney.
 - Rendering Optimisation
 - Component Reusability
 
-### Tools
-- Git / GitHub (PR workflow)
+### Tools & Workflow
+- Git / GitHub (Feature Branching + PR Reviews)
 - Vite
 - ESLint / Prettier
 - Agile Collaboration
@@ -60,14 +60,18 @@ React · TypeScript · TanStack Query · Supabase · Vite
 
 ---
 
-## 🎮 Team Project – PLAYTYPE
+## 🎮 Team Project – PLAYTYPE  
+User preference-based game recommendation & community platform  
+React · TypeScript · Next.js · Zustand · TanStack Query
 
-React · TypeScript · Zustand
+- Led implementation of the My Page flow (profile, dashboard, wishlist and review management) using reusable and modular UI components.
+- Reduced unnecessary refetching by restructuring query keys and introducing controlled query invalidation, decreasing repeated API calls by approximately 40% (measured via DevTools Network panel).
+- Improved list rendering performance by separating global and local state (Zustand + component state), reducing unnecessary re-renders during filter/sort interactions.
+- Implemented scalable filtering, sorting and pagination logic to support smooth navigation in large list views.
+- Refactored component and folder architecture (UI / hooks / API / constants separation) to improve maintainability and reduce coupling.
+- Collaborated in Agile sprint cycles using structured Git branching strategy and PR reviews, ensuring code quality and consistent delivery.
 
-- Developed user dashboard and profile management features.
-- Implemented filtering, search and pagination logic for scalable data handling.
-- Collaborated using structured Git branching strategy and PR reviews.
-- Coordinated frontend-backend API integration in Agile sprint cycles.
+🔗 Repo: https://github.com/SowonHub/oz-union-fe-14-team1
 
 ---
 
