@@ -71,7 +71,8 @@ React · TypeScript · Next.js · Zustand · TanStack Query
 - Refactored component and folder architecture (UI / hooks / API / constants separation) to improve maintainability and reduce coupling.
 - Collaborated in Agile sprint cycles using structured Git branching strategy and PR reviews, ensuring code quality and consistent delivery.
 
-🔗 Repo: https://github.com/SowonHub/oz-union-fe-14-team1
+🔗 Live: oz-union-fe-14-team1.vercel.app
+🔗 Repo: https://github.com/oz-union-14-team1/oz-union-fe-14-team1
 
 ---
 
