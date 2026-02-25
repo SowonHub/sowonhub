@@ -44,7 +44,7 @@ Currently targeting mid-level frontend opportunities in Sydney.
 
 ## 🎬 Featured Project
 
-### Pop Corn Play  
+### Popcorn Play  
 React · TypeScript · TanStack Query · Supabase · Vite
 
 - Designed and deployed a production-ready movie discovery application.
@@ -71,7 +71,7 @@ React · TypeScript · Next.js · Zustand · TanStack Query
 - Refactored component and folder architecture (UI / hooks / API / constants separation) to improve maintainability and reduce coupling.
 - Collaborated in Agile sprint cycles using structured Git branching strategy and PR reviews, ensuring code quality and consistent delivery.
 
-🔗 Live: oz-union-fe-14-team1.vercel.app
+🔗 Live: https://oz-union-fe-14-team1.vercel.app/  
 🔗 Repo: https://github.com/oz-union-14-team1/oz-union-fe-14-team1
 
 ---
